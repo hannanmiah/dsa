@@ -50,4 +50,4 @@ hashTable.set("i");
 hashTable.set("o");
 hashTable.set("me");
 
-console.log(hashTable.get("fuck"));
+console.log(hashTable.get("me"));
